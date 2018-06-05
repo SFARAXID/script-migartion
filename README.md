@@ -1,1 +1,1 @@
-# script migration for joomla 3
+# migration script for joomla 3
